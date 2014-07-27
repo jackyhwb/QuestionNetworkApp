@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		8449963A19856B40000F93C4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8449963919856B40000F93C4 /* main.m */; };
 		8449963D19856B40000F93C4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8449963C19856B40000F93C4 /* AppDelegate.m */; };
-		8449964019856B40000F93C4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8449963F19856B40000F93C4 /* ViewController.m */; };
 		8449964319856B40000F93C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8449964119856B40000F93C4 /* Main.storyboard */; };
 		8449964519856B40000F93C4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8449964419856B40000F93C4 /* Images.xcassets */; };
 		8449965119856B40000F93C4 /* QuestionSocialNetworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8449965019856B40000F93C4 /* QuestionSocialNetworkTests.m */; };
@@ -42,8 +41,6 @@
 		8449963919856B40000F93C4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8449963B19856B40000F93C4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8449963C19856B40000F93C4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		8449963E19856B40000F93C4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		8449963F19856B40000F93C4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		8449964219856B40000F93C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8449964419856B40000F93C4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		8449964A19856B40000F93C4 /* QuestionSocialNetworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuestionSocialNetworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -114,8 +111,6 @@
 			children = (
 				8449963B19856B40000F93C4 /* AppDelegate.h */,
 				8449963C19856B40000F93C4 /* AppDelegate.m */,
-				8449963E19856B40000F93C4 /* ViewController.h */,
-				8449963F19856B40000F93C4 /* ViewController.m */,
 				8449964119856B40000F93C4 /* Main.storyboard */,
 				8449964419856B40000F93C4 /* Images.xcassets */,
 				8449963719856B40000F93C4 /* Supporting Files */,
@@ -268,7 +263,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8449964019856B40000F93C4 /* ViewController.m in Sources */,
 				8449963D19856B40000F93C4 /* AppDelegate.m in Sources */,
 				8449963A19856B40000F93C4 /* main.m in Sources */,
 			);

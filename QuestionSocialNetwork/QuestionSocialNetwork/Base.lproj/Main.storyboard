@@ -20,6 +20,25 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="379" y="-53"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="TU2-pR-AtS">
+            <objects>
+                <viewController id="4ta-Iv-ZnT" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="amG-qb-yND"/>
+                        <viewControllerLayoutGuide type="bottom" id="vpa-1R-7QZ"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="x56-aa-B1M">
+                        <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="IB8-j7-WPf" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="379" y="514"/>
         </scene>
     </scenes>
 </document>
